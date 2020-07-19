@@ -6,7 +6,7 @@
 
 
 😃 Mi nombre es Federico Agustin Annacondia. 🏡 Soy de Buenos Aires, Argentina. 🎓 Actualmente estoy en 4° año de Ingeniería en Informática en la [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/). 
-💻 Además, trabajo como Desarrollador de Software en [Boston Seguros](http://www.boston.com.ar/) desde hace un año y medio.
+💻 Además, trabajo como Desarrollador de Software en [Boston Seguros](http://www.boston.com.ar/) desde abril 2019.
 
 ## ⚡ Tecnologías
 
