@@ -5,11 +5,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-agustinannacondia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agustinannacondia@gmail.com)](mailto:agustinannacondia@gmail.com)
 
 
-😃 Mi nombre es Federico Agustin Annacondia. 🏡 Soy de Buenos Aires, Argentina. 🎓 Actualmente estoy en 4° año de Ingeniería en Informática en la [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/). 
-💻 Además, trabajo como Desarrollador de Software en [Boston Seguros](http://www.boston.com.ar/) desde abril 2019.
+😃 Hi! I'm Agus. 🏡 I'm from Buenos Aires, Argentina. 🎓 I am currently in 4th year of Software Engineering in [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/). 
+💻 Also, I work as a Software Engineer in [Mercado Libre](https://www.mercadolibre.com.ar/) since may 2021.
 
-## ⚡ Tecnologías
+## ⚡ Skills
 
-- Desarrollo Front-End con **HTML, CSS, JavaScript, Angular y React.**
-- Desarrollo Back-End con **NodeJS y C#.**
-- Experiencia en Bases de Datos Relacionales **(SQL Server)** y No-Relacionales **(MongoDB).**
+- +5 years studying Software Engineering
+- +3 years working on frontend development (HTML, CSS, JavaScript, React)
+- +1 year working on backend development (NodeJs, Express)
+- Strong background in testing tools, design patterns, agile methogology, modern infraestructures
+- Advanced English level (B2)
+
+I love to see the real impact from the work that I take on. I like ambitious and innovative projects. I have experience in start-ups (20 employees), medium-size companies (300 employees) and big-size companies (30.000 employees), so I can contribute my knowledge in order to improve the workflow to be agile and efficient.
